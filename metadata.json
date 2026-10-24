@@ -1,0 +1,7 @@
+{
+  "name": "Velvia TV",
+  "description": "Native Android TV & Google TV streaming discovery application for Sony Bravia, built with Jetpack Compose design conventions, D-pad remote navigation, and exportable Android Studio project.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
